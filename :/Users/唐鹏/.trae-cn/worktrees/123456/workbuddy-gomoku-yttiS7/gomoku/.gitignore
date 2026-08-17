@@ -1,0 +1,14 @@
+# 依赖
+node_modules/
+
+# 日志 / 临时文件
+*.log
+npm-debug.log*
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
