@@ -81,4 +81,4 @@ node tools/ab_strength.js 20 0.3 path\to\other_engine.js
 
 ## License
 
-MIT（可在仓库内补充 LICENSE 文件）。
+本项目采用 **MIT 或 Apache-2.0 双许可**（Dual-licensed under MIT OR Apache-2.0），任选其一即可，详见 [LICENSE](LICENSE) 与 [LICENSE-APACHE](LICENSE-APACHE)。
